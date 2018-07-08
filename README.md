@@ -6,7 +6,7 @@
 
 John (Doan Nguyen)
 
-doannx@gmail.com
+toicodedoec@gmail.com
 
 ## Build Setup
 
