@@ -4,7 +4,8 @@
 
 ## Trainee:
 
-Doan Nguyen/doannx@gmail.com
+John (Doan Nguyen)
+doannx@gmail.com
 
 ## Build Setup
 
