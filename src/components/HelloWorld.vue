@@ -54,7 +54,7 @@ export default {
   },
   methods: {
     getColorByRating (rating) {
-      return `rgba(55,185,134,${rating/10})`
+      return `rgba(55,185,134,${rating / 10})`
     },
     sort (ordering) {
       return this.movies.sort((a, b) => ordering === 'asc' ? a.rating - b.rating : b.rating - a.rating)
